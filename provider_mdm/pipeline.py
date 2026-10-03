@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -35,7 +35,7 @@ def _build_status_report(
     merge_log: pd.DataFrame,
     exceptions: pd.DataFrame,
 ) -> str:
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     total_ingested = len(ingested)
     total_master = len(deduped)
     duplicate_events = len(merge_log)
