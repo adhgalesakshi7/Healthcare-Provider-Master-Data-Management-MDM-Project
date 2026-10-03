@@ -1,13 +1,2 @@
 record_id,npi,organization,issue_type,details
-PRV-0004483,1083663447,SOUTHWEST MISSISSIPPI REGIONAL MEDICAL CENTER,missing_address_fields,One or more required address fields are missing.
-PRV-0006266,1114989787,"HEALTH 1ST FAMILY MEDICAL CLINIC, LLC",missing_address_fields,One or more required address fields are missing.
-PRV-0006400,1124110044,ALICE INTERNAL MEDICINE CONSULTANTS,missing_address_fields,One or more required address fields are missing.
-PRV-0014298,1275812216,CARESOUTH CAROLINA INC.,missing_address_fields,One or more required address fields are missing.
-PRV-0017343,1336468735,"RAUSCH MEDICAL CLINICS, LLC",missing_address_fields,One or more required address fields are missing.
-PRV-0028491,1558447896,"SOUTH CENTRAL PRIMARY CARE CENTER, INC.",missing_address_fields,One or more required address fields are missing.
-PRV-0029352,1568959377,"SURGERY CENTER AT CHERRY CREEK, LLC",missing_address_fields,One or more required address fields are missing.
-PRV-0030440,1598071334,MEDSAVE HEALTHCARE CLINICS INC,missing_address_fields,One or more required address fields are missing.
-PRV-0031727,1619405453,MOUNT ASHLAND FAMILY PRACTICE INC,missing_address_fields,One or more required address fields are missing.
-PRV-0036603,1700962362,SOUTHWEST MISSISSIPPI REGIONAL MEDICAL CENTER,missing_address_fields,One or more required address fields are missing.
-PRV-0037542,1720478175,LATINO FAMILY PRACTICE LLC,missing_address_fields,One or more required address fields are missing.
-PRV-0043782,1841731510,"LEE SIDE WELLNESS ASSOCIATES, LLC",missing_address_fields,One or more required address fields are missing.
+PRV-0004100,1558447896,"SOUTH CENTRAL PRIMARY CARE CENTER, INC.",missing_address_fields,One or more required address fields are missing.

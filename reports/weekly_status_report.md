@@ -1,16 +1,16 @@
 # Weekly Provider MDM Status Report
 
-Generated: 2026-08-27 15:16 UTC
+Generated: 2026-10-03 15:36 UTC
 
 ## Summary
-- Raw records ingested: 55673
-- Master records after de-duplication: 51659
-- Duplicate merge events: 3115
-- Rows merged as duplicates: 7129
-- Data quality exceptions open: 12
+- Raw records ingested: 7500
+- Master records after de-duplication: 7434
+- Duplicate merge events: 45
+- Rows merged as duplicates: 111
+- Data quality exceptions open: 1
 
 ## Exceptions By Type
-- missing_address_fields: 12
+- missing_address_fields: 1
 
 ## Notes
 - Inputs were downloaded from public healthcare provider CSV sources.
