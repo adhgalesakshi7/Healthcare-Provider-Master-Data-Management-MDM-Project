@@ -67,6 +67,12 @@ python scripts/run_pipeline.py
 python scripts/run_pipeline.py --max-rows-per-source 0
 ```
 
+4. Keep the pipeline running and rerun it when `data/raw/*.csv` changes:
+
+```bash
+python scripts/run_pipeline.py --watch
+```
+
 ## Outputs
 
 - data/processed/master_providers.csv
